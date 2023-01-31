@@ -1,6 +1,6 @@
-- 👋 Hi, I’m MioKh 
+- 👋 Hi, I’m Amro Khalfa 
 - 👀 I’m interested in a lot of subjects sciences , game development , drawing , language learning 
-- 🌱 I’m currently going through the odin project and trying random stuff in unreal engine and planing to learn some ethical hacking
+- 🌱 I’m currently going through the odin project and learning advanced mathematics and algorithems
 - 💞️ I’m looking to collaborate on nothing " at least for now " because i dont have any skills to collaborate on anything
 - 📫 How to reach me : you can send me something at my email "mioakiyamakh@gmail.com" but i dont know why anyone would do it 
 
